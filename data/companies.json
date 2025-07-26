@@ -1,0 +1,17 @@
+{
+  "acme-inc": {
+    "id": "d514d2b3-aa79-47d4-b7f5-36a0f2888c25",
+    "name": "Acme Inc",
+    "slug": "acme-inc"
+  },
+  "globex-ltd": {
+    "id": "5f9f863b-2210-4e37-839c-86b2442f0de7",
+    "name": "Globex Ltd",
+    "slug": "globex-ltd"
+  },
+  "newco": {
+    "id": "0298a91b-1918-4e16-a515-609a659f3565",
+    "name": "NewCo",
+    "slug": "newco"
+  }
+}
